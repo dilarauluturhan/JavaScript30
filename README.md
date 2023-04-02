@@ -2,6 +2,7 @@
 ># Day 1: JavaScript Drum Kit
 ![](https://user-images.githubusercontent.com/120499369/229288822-6a9fe094-5ad2-4ed6-b80b-7acbb40f4d6b.jpg)
 ># Day 2: CSS + JS Clock
+![](https://user-images.githubusercontent.com/120499369/229359985-a6b243bd-439f-45f1-b781-02d2e3e95118.jpg)
 ># Day 3: Playing with CSS Variables and JS
 ># Day 4: Array Cardio Day 1
 ># Day 5: Flex Panels Image Gallery
