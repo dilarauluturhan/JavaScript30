@@ -6,6 +6,7 @@
 ># Day 3: Playing with CSS Variables and JS
 ![](https://user-images.githubusercontent.com/120499369/229473017-a29c0800-9651-4a61-ba07-cbc0a2aaa702.jpg)
 ># Day 4: Array Cardio Day 1
+![](https://user-images.githubusercontent.com/120499369/229769848-40d756d0-f018-43c8-8a7b-cf4533da5527.jpg)
 ># Day 5: Flex Panels Image Gallery
 ># Day 6: Ajax Type Ahead
 ># Day 7: Array Cardio Day 2
