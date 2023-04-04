@@ -8,6 +8,7 @@
 ># Day 4: Array Cardio Day 1
 ![](https://user-images.githubusercontent.com/120499369/229769848-40d756d0-f018-43c8-8a7b-cf4533da5527.jpg)
 ># Day 5: Flex Panels Image Gallery
+![](https://user-images.githubusercontent.com/120499369/229940358-7791a815-ead4-4560-bb68-54fcc229b1aa.jpg)
 ># Day 6: Ajax Type Ahead
 ># Day 7: Array Cardio Day 2
 ># Day 8: Fun with HTML5 Canvas
