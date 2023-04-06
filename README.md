@@ -10,6 +10,7 @@
 ># Day 5: Flex Panels Image Gallery
 ![](https://user-images.githubusercontent.com/120499369/229940358-7791a815-ead4-4560-bb68-54fcc229b1aa.jpg)
 ># Day 6: Ajax Type Ahead
+![](https://user-images.githubusercontent.com/120499369/230332263-c1914bf5-7f64-4c3b-8f26-67e2f876e0b1.jpg)
 ># Day 7: Array Cardio Day 2
 ># Day 8: Fun with HTML5 Canvas
 ># Day 9: 14 Must Know Dev Tools Tricks
