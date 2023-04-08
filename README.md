@@ -14,6 +14,7 @@
 ># Day 7: Array Cardio Day 2
 ![](https://user-images.githubusercontent.com/120499369/230608171-88021408-09d3-4f1f-a64a-3512cad08d71.jpg)
 ># Day 8: Fun with HTML5 Canvas
+![](https://user-images.githubusercontent.com/120499369/230737593-8cae0cc8-a70e-4f1e-a8c8-dd25283f16e0.jpg)
 ># Day 9: 14 Must Know Dev Tools Tricks
 ># Day 10: Hold Shift to Check Multiple Checkboxes
 ># Day 11: Custom HTML5 Video Player
