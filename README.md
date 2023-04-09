@@ -16,6 +16,7 @@
 ># Day 8: Fun with HTML5 Canvas
 ![](https://user-images.githubusercontent.com/120499369/230737593-8cae0cc8-a70e-4f1e-a8c8-dd25283f16e0.jpg)
 ># Day 9: 14 Must Know Dev Tools Tricks
+![](https://user-images.githubusercontent.com/120499369/230771106-4b41ab14-b0ad-44ed-ba18-49a035c1c098.jpg)
 ># Day 10: Hold Shift to Check Multiple Checkboxes
 ># Day 11: Custom HTML5 Video Player
 ># Day 12: Key Sequence Detection (KONAMI CODE)
