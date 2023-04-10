@@ -18,6 +18,7 @@
 ># Day 9: 14 Must Know Dev Tools Tricks
 ![](https://user-images.githubusercontent.com/120499369/230771106-4b41ab14-b0ad-44ed-ba18-49a035c1c098.jpg)
 ># Day 10: Hold Shift to Check Multiple Checkboxes
+![](https://user-images.githubusercontent.com/120499369/230939299-a6c33be2-295c-4e86-912c-92e9265de835.jpg)
 ># Day 11: Custom HTML5 Video Player
 ># Day 12: Key Sequence Detection (KONAMI CODE)
 ># Day 13: Slide In on Scroll
