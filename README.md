@@ -20,6 +20,7 @@
 ># Day 10: Hold Shift to Check Multiple Checkboxes
 ![](https://user-images.githubusercontent.com/120499369/230939299-a6c33be2-295c-4e86-912c-92e9265de835.jpg)
 ># Day 11: Custom HTML5 Video Player
+![](https://user-images.githubusercontent.com/120499369/231149352-b6f98788-8fe2-48b8-a3ca-a873ecc92d14.jpg)
 ># Day 12: Key Sequence Detection (KONAMI CODE)
 ># Day 13: Slide In on Scroll
 ># Day 14: Object and Arrays - Reference VS Copy
