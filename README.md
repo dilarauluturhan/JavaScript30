@@ -22,6 +22,7 @@
 ># Day 11: Custom HTML5 Video Player
 ![](https://user-images.githubusercontent.com/120499369/231149352-b6f98788-8fe2-48b8-a3ca-a873ecc92d14.jpg)
 ># Day 12: Key Sequence Detection (KONAMI CODE)
+![](https://user-images.githubusercontent.com/120499369/231460043-0dd7be87-f79f-47db-aa3d-607216a9d998.jpg)
 ># Day 13: Slide In on Scroll
 ># Day 14: Object and Arrays - Reference VS Copy
 ># Day 15: LocalStorage and Event Delegation
