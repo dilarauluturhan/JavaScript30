@@ -24,6 +24,7 @@
 ># Day 12: Key Sequence Detection (KONAMI CODE)
 ![](https://user-images.githubusercontent.com/120499369/231460043-0dd7be87-f79f-47db-aa3d-607216a9d998.jpg)
 ># Day 13: Slide In on Scroll
+![](https://user-images.githubusercontent.com/120499369/231776315-bdb4bbc5-9a3f-4d2b-8c07-1c5efad0fe07.jpg)
 ># Day 14: Object and Arrays - Reference VS Copy
 ># Day 15: LocalStorage and Event Delegation
 ># Day 16: CSS Text Shadow Mouse Move Effect
