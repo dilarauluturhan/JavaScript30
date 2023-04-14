@@ -26,6 +26,7 @@
 ># Day 13: Slide In on Scroll
 ![](https://user-images.githubusercontent.com/120499369/231776315-bdb4bbc5-9a3f-4d2b-8c07-1c5efad0fe07.jpg)
 ># Day 14: Object and Arrays - Reference VS Copy
+![](https://user-images.githubusercontent.com/120499369/232045527-08abc0aa-cd9e-4192-9a82-59125694441f.jpg)
 ># Day 15: LocalStorage and Event Delegation
 ># Day 16: CSS Text Shadow Mouse Move Effect
 ># Day 17: Sorting Band Names without Articles
