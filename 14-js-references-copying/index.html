@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Reference VS Copy</title>
+    <link rel="icon" href="https://fav.farm/🔥" />
+</head>
+
+<body>
+    <script>
+        // string, number ve boolean'la başla
+        let age = 100;
+        let age2 = age;
+        console.log(age, age2);
+        age = 200;
+        console.log(age, age2)
+
+        let name = "Wes";
+        let name2 = name;
+        console.log(name, name2);
+        name = "Bos";
+        console.log(name, name2);
+
+        // diyelim ki bir array'imiz var
+        const players = ["Wes", "Sarah", "Ryan", "Poppy"];
+
+        // ve bunun bir kopyasını yapmak istiyoruz
+        const team = players;
+        console.log(players, team);
+
+        // şöyle bir şey yapacağımızı varsayalım:
+        team[3] = "Lux";
+
+        // ancak bu array'i güncellediğimizde ne olur?
+
+        // burada bir problem var!
+
+        // orijinal array'i de düzenledik
+
+        // neden? çünkü bu bir array kopyası değil, bir array reference
+        // ikisi de aynı array'e işaret ediyor
+
+        // peki bunu nasıl düzeltiriz? bunun yerine kopyasını alırız
+        const team2 = players.slice();
+
+        // tek yön
+
+        // veya yeni bir array oluşturun ve eskisiyle birleştirin
+        const team3 = [].concat(players);
+
+        // veya yeni ES6 Spread'i kullan
+        const team4 = [...players];
+        team4[3] = "heeee hawwww";
+        console.log(team4);
+
+        const team5 = Array.from(players);
+
+        // şimdi güncellediğimizde orijinali değişmiyor
+
+        // aynı şey objeler için de geçerli, diyelim ki bir kişi objemiz var
+
+        // objelerle
+        const person = {
+            name: "Wes Bos",
+            age: 80
+        };
+
+        // ve bir kopya oluşturduğumuzu düşünelim:
+        const captain = person;
+        captain.number = 99;
+
+        // bunun yerine nasıl bir kopyalarız?
+        const cap2 = Object.assign({}, person, { number: 99, age: 12 });
+        console.log(cap2);
+
+        const cap3 = { ...person };
+
+        const wes = {
+            name: "Wes",
+            age: 100,
+            social: {
+                twitter: "@wesbos",
+                facebook: "wesbos.developer"
+            }
+        };
+
+        console.log(wes);
+
+        const dev = Object.assign({}, wes);
+        const dev2 = JSON.parse(JSON.stringify(wes));
+
+    </script>
+</body>
+
+</html>
