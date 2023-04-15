@@ -28,6 +28,7 @@
 ># Day 14: Object and Arrays - Reference VS Copy
 ![](https://user-images.githubusercontent.com/120499369/232045527-08abc0aa-cd9e-4192-9a82-59125694441f.jpg)
 ># Day 15: LocalStorage and Event Delegation
+![](https://user-images.githubusercontent.com/120499369/232235152-f581edee-2db3-4bb8-8820-fcc42cbc7d2e.jpg)
 ># Day 16: CSS Text Shadow Mouse Move Effect
 ># Day 17: Sorting Band Names without Articles
 ># Day 18: Tally String Times with Reduce
