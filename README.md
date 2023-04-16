@@ -30,6 +30,7 @@
 ># Day 15: LocalStorage and Event Delegation
 ![](https://user-images.githubusercontent.com/120499369/232235152-f581edee-2db3-4bb8-8820-fcc42cbc7d2e.jpg)
 ># Day 16: CSS Text Shadow Mouse Move Effect
+![](https://user-images.githubusercontent.com/120499369/232316273-91c2887b-8e60-49c9-999f-26ddec241b7e.jpg)
 ># Day 17: Sorting Band Names without Articles
 ># Day 18: Tally String Times with Reduce
 ># Day 19: Unreal Webcam Fun
