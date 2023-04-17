@@ -32,6 +32,7 @@
 ># Day 16: CSS Text Shadow Mouse Move Effect
 ![](https://user-images.githubusercontent.com/120499369/232316273-91c2887b-8e60-49c9-999f-26ddec241b7e.jpg)
 ># Day 17: Sorting Band Names without Articles
+![](https://user-images.githubusercontent.com/120499369/232594592-fc65c031-d9e2-4184-9a78-8f788c976fb0.jpg)
 ># Day 18: Tally String Times with Reduce
 ># Day 19: Unreal Webcam Fun
 ># Day 20: Native Speech Recognition
