@@ -34,6 +34,7 @@
 ># Day 17: Sorting Band Names without Articles
 ![](https://user-images.githubusercontent.com/120499369/232594592-fc65c031-d9e2-4184-9a78-8f788c976fb0.jpg)
 ># Day 18: Tally String Times with Reduce
+![](https://user-images.githubusercontent.com/120499369/233477802-4c572026-b9d7-4138-9386-a7f09beb9e2d.jpg)
 ># Day 19: Unreal Webcam Fun
 ># Day 20: Native Speech Recognition
 ># Day 21: Geolocation based Speedometer and Compass
