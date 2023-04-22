@@ -36,6 +36,7 @@
 ># Day 18: Tally String Times with Reduce
 ![](https://user-images.githubusercontent.com/120499369/233477802-4c572026-b9d7-4138-9386-a7f09beb9e2d.jpg)
 ># Day 19: Unreal Webcam Fun
+![](https://user-images.githubusercontent.com/120499369/233802856-efdc2049-69b4-4b9a-a506-6742880bedd2.jpg)
 ># Day 20: Native Speech Recognition
 ># Day 21: Geolocation based Speedometer and Compass
 ># Day 22: Follow Along Links
