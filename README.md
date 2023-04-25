@@ -40,6 +40,7 @@
 ># Day 20: Native Speech Recognition
 ![](https://user-images.githubusercontent.com/120499369/233984634-24b6bec8-8b04-4c7d-aa8a-34c8250ab8ab.jpg)
 ># Day 21: Geolocation based Speedometer and Compass
+![](https://user-images.githubusercontent.com/120499369/234223438-de102855-b66c-41f2-9ee0-e6dc998d0201.jpg)
 ># Day 22: Follow Along Links
 ># Day 23: Speech Synthesis
 ># Day 24: Sticky Nav
