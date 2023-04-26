@@ -42,6 +42,7 @@
 ># Day 21: Geolocation based Speedometer and Compass
 ![](https://user-images.githubusercontent.com/120499369/234223438-de102855-b66c-41f2-9ee0-e6dc998d0201.jpg)
 ># Day 22: Follow Along Links
+![](https://user-images.githubusercontent.com/120499369/234529156-329e451a-ca2c-4d48-bcdb-02c1599d0508.jpg)
 ># Day 23: Speech Synthesis
 ># Day 24: Sticky Nav
 ># Day 25: Event Capture, Propagation, Bubbling and Once
