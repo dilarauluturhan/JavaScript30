@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>👀Follow Along Nav</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <ul class="menu">
+            <li><a href="">Home</a></li>
+            <li><a href="">Order Status</a></li>
+            <li><a href="">Tweets</a></li>
+            <li><a href="">Read Our History</a></li>
+            <li><a href="">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <div class="wrapper">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, autem ad quae voluptates quaerat dolorum
+            fuga sequi voluptate non vero fugit, at magni possimus doloribus nam. Pariatur inventore nesciunt quasi?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, autem ad quae voluptates quaerat dolorum
+            fuga sequi voluptate non vero fugit, at magni possimus doloribus nam. Pariatur inventore nesciunt quasi?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, autem ad quae voluptates quaerat dolorum
+            fuga sequi voluptate non vero fugit, at magni possimus doloribus nam. Pariatur inventore nesciunt quasi?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, autem ad quae voluptates quaerat dolorum
+            fuga sequi voluptate non vero fugit, at magni possimus doloribus nam. Pariatur inventore nesciunt quasi?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, autem ad quae voluptates quaerat dolorum
+            fuga sequi voluptate non vero fugit, at magni possimus doloribus nam. Pariatur inventore nesciunt quasi?
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, autem ad quae voluptates quaerat dolorum
+            fuga sequi voluptate non vero fugit, at magni possimus doloribus nam. Pariatur inventore nesciunt quasi?</p>
+    </div>
+
+    <script>
+        const triggers = document.querySelectorAll('a');
+        const highlight = document.createElement('span');
+        highlight.classList.add('highlight');
+        document.body.append(highlight);
+
+        // getBoundingClientRect(), bir HTML elementinin konumunu veya boyutunu hesaplamak için kullanılır
+        function highlightLink() {
+            const linkCoords = this.getBoundingClientReact();
+            const coords = {
+                width: linkCoords.width,
+                height: linkCoords.height,
+                top: linkCoords.top + window.scrollY,
+                left: linkCoords.left + window.scrollX
+            }
+            highlight.style.width = `${coords.width}px`;
+            highlight.style.height = `${coords.height}px`;
+            highlight.style.transform = `translate(${coords.left}px, ${linkCoords.top}px)`;
+        }
+
+        triggers.forEach(a => a.addEventListener('mouseenter', highlightLink));
+    </script>
+</body>
+
+</html>
