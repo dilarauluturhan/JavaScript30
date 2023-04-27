@@ -44,6 +44,7 @@
 ># Day 22: Follow Along Links
 ![](https://user-images.githubusercontent.com/120499369/234529156-329e451a-ca2c-4d48-bcdb-02c1599d0508.jpg)
 ># Day 23: Speech Synthesis
+![](https://user-images.githubusercontent.com/120499369/234874654-ad949a35-cfc6-4e49-8b01-93185c64381a.jpg)
 ># Day 24: Sticky Nav
 ># Day 25: Event Capture, Propagation, Bubbling and Once
 ># Day 26: Stripe Follow Along Dropdown
