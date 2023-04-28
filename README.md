@@ -46,6 +46,7 @@
 ># Day 23: Speech Synthesis
 ![](https://user-images.githubusercontent.com/120499369/234874654-ad949a35-cfc6-4e49-8b01-93185c64381a.jpg)
 ># Day 24: Sticky Nav
+![](https://user-images.githubusercontent.com/120499369/235102692-e08ab9c9-8863-4936-b994-051124425875.jpg)
 ># Day 25: Event Capture, Propagation, Bubbling and Once
 ># Day 26: Stripe Follow Along Dropdown
 ># Day 27: Click and Drag to Scroll
