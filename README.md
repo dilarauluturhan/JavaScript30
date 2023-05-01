@@ -50,6 +50,7 @@
 ># Day 25: Event Capture, Propagation, Bubbling and Once
 ![](https://user-images.githubusercontent.com/120499369/235308084-f24f1444-6abb-4cd9-b407-e7fcf38a4d9d.jpg)
 ># Day 26: Stripe Follow Along Dropdown
+![](https://user-images.githubusercontent.com/120499369/235524203-18df6f56-120c-4d39-80fc-be272dce1806.jpg)
 ># Day 27: Click and Drag to Scroll
 ># Day 28: Video Speed Controller UI
 ># Day 29: Countdown Clock
