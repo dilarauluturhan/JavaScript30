@@ -54,5 +54,6 @@
 ># Day 27: Click and Drag to Scroll
 ![](https://user-images.githubusercontent.com/120499369/235746895-c4eb6246-6c3b-49e4-ad70-950b3bf94ec1.jpg)
 ># Day 28: Video Speed Controller UI
+![](https://user-images.githubusercontent.com/120499369/236216734-2f00c8ae-4000-4a23-ad75-d94d07698613.jpg)
 ># Day 29: Countdown Clock
 ># Day 30: Whack a Mole Game
